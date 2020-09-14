@@ -1,5 +1,4 @@
-[![CircleCI](https://circleci.com/gh/SamirduUd/Machine-Learning-Docker.svg?style=svg)](https://app.circleci.com/pipelines/github/SamirduUd/Machine-Learning-Docker)
-
+[![CircleCI](https://circleci.com/gh/SamirduUd/Machine-Learning-Docker.svg?style=svg&circle-token=a31ba1c951f2c8f4e6721ca2d7de9eaaabea5fb5)](https://app.circleci.com/pipelines/github/SamirduUd/Machine-Learning-Docker)
 
 
 
