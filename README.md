@@ -1,4 +1,7 @@
-[![CircleCI](https://circleci.com/gh/SamirduUd/Machine-Learning-Docker.svg?style=svg)](https://circleci.com/gh/SamirduUd/Machine-Learning-Docker)
+[![CircleCI](https://circleci.com/gh/SamirduUd/Machine-Learning-Docker.svg?style=svg)](https://app.circleci.com/pipelines/github/SamirduUd/Machine-Learning-Docker)
+
+
+
 
 # 1. Project Overview
 This project is to operationalize a Machine Learning Microservice API. The Machine Learning API is a pre-trained, sklearn model that has been trained to predict housing prices in Boston according to several features, such as average rooms in a home and data about highway access, teacher-to-pupil ratios, and so on. You can read more about the data, which was initially taken from Kaggle, on the data source site.
